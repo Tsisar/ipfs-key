@@ -1,4 +1,4 @@
-module github.com/ipfs-key
+module github.com/Tsisar/ipfs-key
 
 go 1.17
 
